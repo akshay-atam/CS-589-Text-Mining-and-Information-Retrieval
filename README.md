@@ -3,7 +3,7 @@ Resources and assignments for CS 589 - Text Mining and Information Retrieval at 
 
 > *"Gaining knowledge, is the first step to wisdom. Sharing it, is the first step to humanity"* -Unknown
 
-**NOTE:** The files shared are for study purpose only. If my work helped you in any way, do cite/add references. Thanks!
+**NOTE:** The files shared are for study purpose only. Plagiarism is a violation and should not be performed. If my work helped you in any way, do cite/add a reference. Thanks and Happy Learning!
 
 ## Topics covered in all the weeks
 - Lecture 1: History of Information Retrieval, Vector Space Model
